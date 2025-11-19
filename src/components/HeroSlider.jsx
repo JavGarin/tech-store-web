@@ -14,7 +14,7 @@ const HeroSlider = ({ heroSlides }) => {
   }
 
   useEffect(() => {
-    const slideInterval = setInterval(nextSlide, 3000)
+    const slideInterval = setInterval(nextSlide, 5000)
     return () => clearInterval(slideInterval)
   }, [])
 
