@@ -52,7 +52,7 @@ src/
 
 Here's a glimpse of the TechStore Web application:
 
-![TechStore Web Screenshot](public/img/techstore.avif)
+![TechStore Web Screenshot](public/tech-store.png)
 
 ## Author
 
